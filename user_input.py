@@ -14,7 +14,3 @@ age = input("enter your age : ")
 location = input("enter your location : ")
 
 print(F"hello! {name}, you are {age} years old and your current location is {location}")
-
-#del all variable and try to print them
-del name, age, location
-# print( name, age , location)   -prints name, age and location not found.
